@@ -9,7 +9,7 @@ Exploration and implementation of
 7) Containerization via Docker/K8s
 
 # Project Architecture
-![Alt text](architecture-v1.png)
+![Alt text](architecture-v2.png)
 
 # Contributors
 1) [Israa Saifullah](https://www.linkedin.com/in/israaibnusaifullah/)
