@@ -12,6 +12,6 @@ Exploration and implementation of
 ![Alt text](architecture-v1.png)
 
 # Contributors
-1) [Israa Saifullah] (https://www.linkedin.com/in/israaibnusaifullah/)
-2) [Nazhan Sukri ] (https://www.linkedin.com/in/ahmad-nazhan/)
+1) [Israa Saifullah](https://www.linkedin.com/in/israaibnusaifullah/)
+2) [Nazhan Sukri ](https://www.linkedin.com/in/ahmad-nazhan/)
 
