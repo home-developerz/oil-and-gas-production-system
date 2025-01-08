@@ -1,6 +1,7 @@
 # Purpose of This Project
 Exploration and implementation of
 1) .NET framework
+2) NuGet Package Manager
 2) Microservice architecture
 3) Data Engineering
 4) Cloud services (GCP)

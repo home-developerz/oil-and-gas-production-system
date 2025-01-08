@@ -1,0 +1,84 @@
+## Ignore the build output directory
+bin/
+obj/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer files for VSIX projects
+.vs/
+.vscode/
+
+## JetBrains Rider
+.idea/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## VS Code directories
+.vscode/
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## VS for Mac
+.vsconfig
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## User-specific files from Rider (JetBrains)
+.idea/
+
+# Node modules (if using Node.js for front-end development)
+node_modules/
+
+# npm package-lock file (for front-end)
+package-lock.json
+
+# JetBrains Rider files
+.idea/
+
+# User specific files from Visual Studio
+.vs/
+
+# .NET Core temporary files
+*.db
+
+# Publish folder
+publish/
+
+# Docker files
+docker-compose.override.yml
+.docker/
+
+# Azure Functions
+local.settings.json
+
+# ASP.NET Core debugging files
+*.log
+
+# Azure Web App publish profile
+*.PublishSettings
+
+# User-specific folders
+user/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
